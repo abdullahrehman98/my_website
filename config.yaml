@@ -81,7 +81,7 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: pic01.jpg
+      - image: IMG_1878.jpg
         subtitle: Ipsum Dolor Sit Amet
         title: Aliquam
         url: blogs/abdullah
