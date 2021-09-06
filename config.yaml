@@ -82,8 +82,8 @@ params:
     enable: yes
     showcase:
       - image: IMG_1878.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
+        subtitle: My First R assignmnt
+        title: Precourse 1
         url: blogs/abdullah
       - image: pic02.jpg
         subtitle: Feugiat Amet Tempus
