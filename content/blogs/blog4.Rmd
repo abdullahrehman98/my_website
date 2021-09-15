@@ -4,7 +4,7 @@ categories:
 - ""
 date: "2017-10-31T22:42:51-05:00"
 description: Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna
-  sed nunc rhoncus condimentum sem. Iefficitur ligula tate urna. Maecenas massa
+  sed nunc rhoncus condimentufdm sem. Iefficitur ligula tate urna. Maecenas massa
   sed magna lacinia magna pellentesque lorem ipsum dolor. dygfNullam et orci eu lorem
   consequat tincidunt. Vivamus et sagittis tempus.
 draft: false
@@ -30,7 +30,7 @@ knitr::opts_chunk$set(echo = FALSE,message = FALSE,warning = FALSE)
 
 ## By Abdullah Rehman
 
-This is on the website 
+This is on the website.
 
 My name is Abdullah Rehman as I have mentioned numerous times by now in this report. I am an incoming MAM student looking to pursue my passion for consulting. I was brought up in Pakistan but always had roots in England due to my extensive family here so decided to come her for my undergraduate studies.
 
