@@ -45,9 +45,8 @@ knitr::include_graphics("/Users/abdullahrehman/Desktop/LBS MAM Courses /Applied 
 
 ```
 
-```{r, echo=FALSE, out.width="30%", fig.cap="Figure 1.2",fig.show='hold',fig.align='center'}
-knitr::include_graphics("/Users/abdullahrehman/Downloads/ART/IMG_1878.jpg")
-```
+![These are two of my artworks ](IMG_1932.jpg)
+![](IMG_5638.jpg)
 
 Figure 1.1 and 1.2 are some of my artworks which are oil on canvas.
 
