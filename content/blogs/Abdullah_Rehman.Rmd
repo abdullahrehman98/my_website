@@ -39,13 +39,11 @@ I did my undergrad from [**University College London**](https://www.ucl.ac.uk) i
 During my spare time, I love to paint. I have an online profile at [Saatchi Art Gallery](https://www.saatchiart.com/account/artworks/1107889). I am attaching a few of them below and the rest can be seen on the link mentioned. I am also an avid chocolate enthusiast, I can skip any meal of the day except for dessert.
 
 ```{r, echo=FALSE,out.width="30%",fig.show='hold',fig.align='center',fig.cap="Figure 1.1"}
-knitr::include_graphics("/Users/abdullahrehman/Desktop/LBS MAM Courses /Applied Statistics AM01 AUT21 /am01-master/my_website/static/img/blogs/IMG_1930.jpg")
-#include_graphics("/Users/abdullahrehman/Downloads/ART/IMG_1930.jpg")
-# include_graphics("/Users/abdullahrehman/Downloads/ART/IMG_5435.jpg")
+knitr::include_graphics("IMG_5638.png")
 
 ```
 
-![These are two of my artworks ](IMG_1932.jpg)
+![These are two of my artworks](IMG_1932.jpg)
 ![](IMG_5638.jpg)
 
 Figure 1.1 and 1.2 are some of my artworks which are oil on canvas.
