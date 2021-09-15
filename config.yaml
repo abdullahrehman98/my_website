@@ -90,8 +90,8 @@ params:
         title: Tempus
         url: blogs/tempus
       - image: pictravel.JPG
-        subtitle: Lorem Etiam Nullam
-        title: Magna
+        subtitle: A journey through my adventures
+        title: My Travel Blog
         url: blogs/magna
       - image: pic04.jpg
         subtitle: Nisl Sed Aliquam
