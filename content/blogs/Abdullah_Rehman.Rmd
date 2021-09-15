@@ -39,7 +39,7 @@ I did my undergrad from [**University College London**](https://www.ucl.ac.uk) i
 During my spare time, I love to paint. I have an online profile at [Saatchi Art Gallery](https://www.saatchiart.com/account/artworks/1107889). I am attaching a few of them below and the rest can be seen on the link mentioned. I am also an avid chocolate enthusiast, I can skip any meal of the day except for dessert.
 
 ```{r, echo=FALSE}
-knitr::include_graphics("/img/IMG_5638.jpg")
+knitr::include_graphics("/img/IMG_5638.png")
 ```
 image: IMG_1930.jpg
 
